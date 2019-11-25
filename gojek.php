@@ -343,7 +343,7 @@ if ($register == false)
             else{
                 echo color("grey","[+] Message : ".$claim."\n");
                 sleep(3);
-                echo color("red","[!!]Created With Love By Daff[[!!]\n");
+                echo color("red","[!!]Created With ♥ by. VERY GALUH SAPUTRA •͈ᴗ•͈\n");
                 sleep(1);
                 echo color("yellow","[-] Please wait...\n");
                 sleep(3);

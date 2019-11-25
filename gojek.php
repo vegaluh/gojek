@@ -217,8 +217,8 @@ function transfer($qrid, $token, $amount, $pin)
     }
 
 echo color("red","   =====================================\n");
-echo color("red","  |            V E G A L U H              |\n");
-echo             "  |  Timezone  : ".date('d-m-Y H:i:s')."    |\n";
+echo color("red","               V E G A L U H                 \n");
+echo             "     Timezone  : ".date('d-m-Y H:i:s')."     \n";
 echo             "   =====================================\n\n";
 
 echo color("nevy","[?] Nomor ? : ");
